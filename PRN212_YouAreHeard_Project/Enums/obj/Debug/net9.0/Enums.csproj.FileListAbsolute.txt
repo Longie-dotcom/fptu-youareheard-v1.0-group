@@ -1,0 +1,34 @@
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Enums\bin\Debug\net9.0\Enums.deps.json
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Enums\bin\Debug\net9.0\Enums.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Enums\bin\Debug\net9.0\Enums.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.AssemblyInfo.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\refint\Enums.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\ref\Enums.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Enums\bin\Debug\net9.0\Enums.deps.json
+D:\GitHub\PRN212_YouAreHeard_Project\Enums\bin\Debug\net9.0\Enums.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Enums\bin\Debug\net9.0\Enums.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.AssemblyInfoInputs.cache
+D:\GitHub\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.AssemblyInfo.cs
+D:\GitHub\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.csproj.CoreCompileInputs.cache
+D:\GitHub\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\refint\Enums.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\ref\Enums.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\bin\Debug\net9.0\Enums.deps.json
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\bin\Debug\net9.0\Enums.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\bin\Debug\net9.0\Enums.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.AssemblyInfoInputs.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.AssemblyInfo.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.csproj.CoreCompileInputs.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.sourcelink.json
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\refint\Enums.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\Enums.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Enums\obj\Debug\net9.0\ref\Enums.dll

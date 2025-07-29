@@ -1,0 +1,419 @@
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.exe
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.deps.json
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.runtimeconfig.json
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard_MarkupCompile.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard_MarkupCompile.lref
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.g.resources
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.AssemblyInfo.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\refint\YouAreHeard.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.genruntimeconfig.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\ref\YouAreHeard.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\MainWindow.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\App.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Text.Json.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\BussinessObjects.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\DataAccessLayer.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Repositories.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Services.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Services.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\BussinessObjects.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\DataAccessLayer.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Repositories.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHe.A7756193.Up2Date
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\DoctorLayout.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorDashboard.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\DoctorLayout.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorDashboard.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorHeaderControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorHeaderControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorSidebarControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorSidebarControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTestControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Enums.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Enums.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTestControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorAppointmentControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTreatmentControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorAppointmentControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTreatmentControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AppointmentDetail.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AppointmentDetail.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTest.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTest.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTreatment.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTreatment.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\StaffLayout.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffConsultantControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffPostControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffSidebarControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffVerifyControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\StaffDashboard.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\StaffLayout.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffConsultantControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffPostControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffSidebarControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffVerifyControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\StaffDashboard.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\AdminLayout.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminSidebarControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDashboard.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\AdminLayout.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminSidebarControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDashboard.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminAccountControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminProfileControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminStatisticControl.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminAccountControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminProfileControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminStatisticControl.baml
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\appsettings.json
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Helper.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Helper.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\EPPlus.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\EPPlus.Interfaces.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\EPPlus.System.Drawing.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Drawing.Common.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Private.Windows.Core.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDoctorScheduleDetail.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDoctorScheduleDetail.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.exe
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\appsettings.json
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.deps.json
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.runtimeconfig.json
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\EPPlus.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\EPPlus.Interfaces.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\EPPlus.System.Drawing.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Drawing.Common.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Private.Windows.Core.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Text.Json.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\BussinessObjects.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\DataAccessLayer.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Enums.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Helper.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Repositories.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Services.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\BussinessObjects.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Enums.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Services.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\DataAccessLayer.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Helper.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Repositories.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.csproj.AssemblyReference.cache
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminAccountControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorAppointmentControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorHeaderControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorSidebarControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTestControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTreatmentControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AppointmentDetail.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTest.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTreatment.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\AdminLayout.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\DoctorLayout.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\StaffLayout.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminAccountControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminProfileControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminSidebarControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminStatisticControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorAppointmentControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorHeaderControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorSidebarControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTestControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTreatmentControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffConsultantControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffPostControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffSidebarControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffVerifyControl.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDashboard.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDoctorScheduleDetail.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AppointmentDetail.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorDashboard.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTest.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTreatment.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\StaffDashboard.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\App.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard_MarkupCompile.cache
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard_MarkupCompile.lref
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\App.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\AdminLayout.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\DoctorLayout.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\StaffLayout.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminProfileControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminSidebarControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminStatisticControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffConsultantControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffPostControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffSidebarControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffVerifyControl.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDashboard.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDoctorScheduleDetail.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorDashboard.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\MainWindow.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\StaffDashboard.baml
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.g.resources
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.AssemblyInfoInputs.cache
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.AssemblyInfo.cs
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.csproj.CoreCompileInputs.cache
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHe.A7756193.Up2Date
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\refint\YouAreHeard.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.genruntimeconfig.cache
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\ref\YouAreHeard.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\LiveCharts.dll
+D:\GitHub\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\LiveCharts.Wpf.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.exe
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\appsettings.json
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.deps.json
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.runtimeconfig.json
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\YouAreHeard.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\EPPlus.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\EPPlus.Interfaces.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\EPPlus.System.Drawing.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\LiveCharts.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\LiveCharts.Wpf.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Drawing.Common.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Private.Windows.Core.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\System.Text.Json.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\BussinessObjects.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\DataAccessLayer.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Enums.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Helper.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Repositories.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Services.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\BussinessObjects.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Enums.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Services.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\DataAccessLayer.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Helper.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\bin\Debug\net9.0-windows\Repositories.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.csproj.AssemblyReference.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminAccountControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorAppointmentControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorHeaderControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorSidebarControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTestControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTreatmentControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AppointmentDetail.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTest.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTreatment.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\AdminLayout.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\DoctorLayout.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\StaffLayout.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminAccountControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminProfileControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminSidebarControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminStatisticControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorAppointmentControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorHeaderControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorSidebarControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTestControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\DoctorTreatmentControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffConsultantControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffPostControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffSidebarControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffVerifyControl.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDashboard.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDoctorScheduleDetail.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AppointmentDetail.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorDashboard.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTest.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorTreatment.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\StaffDashboard.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\App.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard_MarkupCompile.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard_MarkupCompile.lref
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\App.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\AdminLayout.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\DoctorLayout.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Layouts\StaffLayout.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminProfileControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminSidebarControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\AdminStatisticControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffConsultantControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffPostControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffSidebarControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\UserControls\StaffVerifyControl.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDashboard.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\AdminDoctorScheduleDetail.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\DoctorDashboard.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\MainWindow.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\Views\StaffDashboard.baml
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.g.resources
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.AssemblyInfoInputs.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.AssemblyInfo.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.csproj.CoreCompileInputs.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.sourcelink.json
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHe.A7756193.Up2Date
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\refint\YouAreHeard.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\YouAreHeard.genruntimeconfig.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\ref\YouAreHeard.dll

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "u1bQbBeJlXo=",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\fptu-youareheard-v1.0-desktop\\PRN212_YouAreHeard_Project\\Helper\\Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.7\\microsoft.extensions.configuration.9.0.7.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.7\\microsoft.extensions.configuration.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.6\\microsoft.extensions.configuration.fileextensions.9.0.6.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.6\\microsoft.extensions.configuration.json.9.0.6.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.6\\microsoft.extensions.fileproviders.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.6\\microsoft.extensions.fileproviders.physical.9.0.6.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.6\\microsoft.extensions.filesystemglobbing.9.0.6.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.7\\microsoft.extensions.primitives.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

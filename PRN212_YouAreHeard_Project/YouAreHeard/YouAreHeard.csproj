@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\font\Be_Vietnam_Pro\BeVietnamPro-Black.ttf" />
+    <None Remove="Assets\logo-picture.png" />
+    <None Remove="Assets\logo-text.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="7.7.3" />
+    <PackageReference Include="LiveCharts.Core" Version="0.9.8" />
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BussinessObjects\BussinessObjects.csproj" />
+    <ProjectReference Include="..\Enums\Enums.csproj" />
+    <ProjectReference Include="..\Services\Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\font\Be_Vietnam_Pro\BeVietnamPro-Black.ttf" />
+    <Resource Include="Assets\logo-picture.png" />
+    <Resource Include="Assets\logo-text.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

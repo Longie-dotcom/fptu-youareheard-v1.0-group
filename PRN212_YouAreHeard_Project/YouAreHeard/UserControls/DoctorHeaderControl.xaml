@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="YouAreHeard.UserControls.DoctorHeaderControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="0, 0, 0, 10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+
+        <StackPanel
+            Grid.Column="0"
+            Orientation="Horizontal"
+            HorizontalAlignment="Left">
+            <Image 
+            Source="/Assets/logo-picture.png" 
+            Height="70" 
+            Width="auto"/>
+            <Image 
+            Source="/Assets/logo-text.png" 
+            Height="70" 
+            Width="140"/>
+        </StackPanel>
+
+        <Border 
+            Grid.Column="1"
+            HorizontalAlignment="Right"
+            Height="40"
+            CornerRadius="20"
+            Background="#FFF380"
+            Margin="4,4,4,4"
+            Width="200"
+            Padding="10">
+            <Button
+                Background="Transparent"
+                BorderThickness="0"
+                Foreground="Black"
+                FontSize="14"
+                FontWeight="Bold"
+                Cursor="Hand"
+                Content="Đăng xuất"
+                VerticalAlignment="Center" Click="LogoutClick"/>
+        </Border>
+    </Grid>
+</UserControl>

@@ -1,0 +1,37 @@
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\bin\Debug\net9.0\Helper.deps.json
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\bin\Debug\net9.0\Helper.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\bin\Debug\net9.0\Helper.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.AssemblyInfo.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\refint\Helper.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\ref\Helper.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\bin\Debug\net9.0\Helper.deps.json
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\bin\Debug\net9.0\Helper.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\bin\Debug\net9.0\Helper.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.csproj.AssemblyReference.cache
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.AssemblyInfoInputs.cache
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.AssemblyInfo.cs
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.csproj.CoreCompileInputs.cache
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\refint\Helper.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\ref\Helper.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\bin\Debug\net9.0\Helper.deps.json
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\bin\Debug\net9.0\Helper.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\bin\Debug\net9.0\Helper.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.csproj.AssemblyReference.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.AssemblyInfoInputs.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.AssemblyInfo.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.csproj.CoreCompileInputs.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.sourcelink.json
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\refint\Helper.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\Helper.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Helper\obj\Debug\net9.0\ref\Helper.dll

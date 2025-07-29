@@ -1,0 +1,209 @@
+﻿<Window x:Class="YouAreHeard.Views.DoctorTreatment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Kế hoạch điều trị"
+        Height="650" Width="900"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Background="#F5F5F5">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <!-- Patient info -->
+                <RowDefinition Height="Auto"/>
+                <!-- Regimen select -->
+                <RowDefinition Height="*"/>
+                <!-- Medicine list -->
+                <RowDefinition Height="Auto"/>
+                <!-- Notes -->
+                <RowDefinition Height="Auto"/>
+                <!-- Buttons -->
+            </Grid.RowDefinitions>
+
+            <!-- 1. Patient info -->
+            <StackPanel Grid.Row="0" Margin="0,0,0,15">
+                <TextBlock Text="Thông tin bệnh nhân"
+                           FontSize="18"
+                           FontWeight="Bold"
+                           Margin="0,0,0,10"/>
+
+                <!-- Họ tên -->
+                <Grid Margin="0,5">
+                    <Rectangle RadiusX="10" RadiusY="10"
+                               Stroke="Black" StrokeThickness="1.4"
+                               StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <TextBlock Text="Họ tên: "
+                                   FontWeight="Bold"
+                                   FontSize="15"
+                                   Foreground="#FF757575" Width="150"/>
+                        <TextBlock Text="{Binding Appointment.PatientProfile.Name}"
+                                   FontSize="15"
+                                   FontWeight="SemiBold"/>
+                    </StackPanel>
+                </Grid>
+
+                <!-- Ngày khám & Giờ khám -->
+                <Grid Margin="0,5">
+                    <Rectangle RadiusX="10" RadiusY="10"
+                               Stroke="Black" StrokeThickness="1.4"
+                               StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <TextBlock Text="Ngày khám: "
+                                   FontWeight="Bold" FontSize="15"
+                                   Foreground="#FF757575" Width="150"/>
+                        <TextBlock Text="{Binding Appointment.ScheduleDate}"
+                                   FontSize="15" FontWeight="SemiBold"/>
+                        <TextBlock Text=" (" FontSize="15" FontWeight="Bold"/>
+                        <TextBlock Text="{Binding Appointment.ScheduleTime}"
+                                   FontSize="15"
+                                   FontWeight="Bold"/>
+                        <TextBlock Text=")" FontSize="15" FontWeight="Bold"/>
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+
+            <!-- 2. Regimen select -->
+            <StackPanel Grid.Row="1" Margin="0,0,0,15">
+                <TextBlock Text="Lựa chọn phác đồ"
+                           FontSize="16"
+                           FontWeight="Bold"
+                           Margin="0,0,0,5"/>
+                <Border CornerRadius="10" BorderBrush="Gray"
+                        BorderThickness="1.4" Background="White">
+                    <ComboBox Width="280" Margin="4"
+                              ItemsSource="{Binding Regimens}"
+                              SelectedItem="{Binding SelectedRegimen}"
+                              DisplayMemberPath="Name"
+                              Background="Transparent"
+                              BorderThickness="0"/>
+                </Border>
+            </StackPanel>
+
+            <!-- 3. Medicine list (readonly) -->
+            <!-- 3. Editable Medicine List -->
+            <StackPanel Grid.Row="2" Margin="0,0,0,15">
+                <TextBlock Text="Lịch uống thuốc"
+               FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <ItemsControl ItemsSource="{Binding Medications}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <!-- Medication Card -->
+                            <Grid Margin="0,0,0,15">
+                                <Rectangle RadiusX="10" RadiusY="10"
+                                   Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+
+                                <StackPanel Margin="10">
+                                    <!-- Medication Name -->
+                                    <TextBlock Text="{Binding MedicationName}"
+                                       FontWeight="Bold" FontSize="16" Margin="0,0,0,8"/>
+
+                                    <TextBlock Text="Thời gian uống Liều lượng:" FontWeight="Bold" Margin="0,5"/>
+                                    <ItemsControl ItemsSource="{Binding RemindEntries}">
+                                        <ItemsControl.ItemTemplate>
+                                            <DataTemplate>
+                                                <StackPanel Orientation="Horizontal" Margin="0,2">
+                                                    <StackPanel Orientation="Horizontal">
+                                                        <ComboBox Width="60"
+                                                              Margin="0,0,5,0"
+                                                              ItemsSource="{Binding DataContext.Hours, RelativeSource={RelativeSource AncestorType=Window}}"
+                                                              SelectedValue="{Binding Hour, Mode=TwoWay}"/>
+                                                        <TextBlock Text=":" VerticalAlignment="Center" FontWeight="Bold"/>
+                                                        <ComboBox Width="60"
+                                                              Margin="5,0,10,0"
+                                                              ItemsSource="{Binding DataContext.Minutes, RelativeSource={RelativeSource AncestorType=Window}}"
+                                                              SelectedValue="{Binding Minute, Mode=TwoWay}"/>
+                                                    </StackPanel>
+
+                                                    <TextBlock Text="Liều:" VerticalAlignment="Center"/>
+                                                    <TextBox Width="50"
+                                                         Text="{Binding Dosage, Mode=TwoWay}"
+                                                         Margin="4,0,0,0"
+                                                         VerticalAlignment="Center"/>
+                                                </StackPanel>
+                                            </DataTemplate>
+                                        </ItemsControl.ItemTemplate>
+                                    </ItemsControl>
+
+                                    <TextBlock Text="Ghi chú:" FontWeight="Bold" Margin="0,10,0,5"/>
+                                    <Grid>
+                                        <Rectangle 
+                                            RadiusX="8" RadiusY="8"
+                                            Stroke="Black" StrokeThickness="1.4"
+                                            StrokeDashArray="4,2"
+                                            Fill="White"/>
+                                        <TextBox 
+                                            Text="{Binding Notes, Mode=TwoWay}"
+                                            Background="Transparent"
+                                            BorderThickness="0"
+                                            Padding="5"
+                                            Height="40"
+                                            FontSize="14"
+                                            FontWeight="SemiBold"
+                                            VerticalContentAlignment="Center"/>
+                                    </Grid>
+                                </StackPanel>
+                            </Grid>
+
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+
+            <!-- 4. Common notes -->
+            <StackPanel Grid.Row="3" Margin="0,0,0,15">
+                <TextBlock Text="Ghi chú chung"
+                           FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+                <Grid>
+                    <Rectangle RadiusX="10" RadiusY="10"
+                               Stroke="Black" StrokeThickness="1.4"
+                               StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                    <TextBox Text="{Binding Notes}"
+                             Margin="10"
+                             FontSize="15"
+                             TextWrapping="Wrap"
+                             AcceptsReturn="True"
+                             Height="90"
+                             Background="Transparent"
+                             BorderThickness="0"/>
+                </Grid>
+            </StackPanel>
+
+            <!-- 5. Buttons -->
+            <StackPanel Grid.Row="4"
+                        Orientation="Horizontal"
+                        HorizontalAlignment="Right">
+                <!-- Close -->
+                <Border CornerRadius="17.5" Background="#415AFA"
+                        Width="90" Height="35" Margin="4">
+                    <Button Content="Đóng"
+                            FontWeight="Bold" FontSize="15"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Foreground="White"
+                            Padding="10,5"
+                            Click="CloseClick"/>
+                </Border>
+
+                <!-- Save -->
+                <Border CornerRadius="17.5" Background="#415AFA"
+                        Width="120" Height="35" Margin="4">
+                    <Button Content="Lưu kế hoạch"
+                            FontWeight="Bold" FontSize="15"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Foreground="White"
+                            Padding="10,5"
+                            Command="{Binding SaveTreatmentCommand}"/>
+                </Border>
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Window>
