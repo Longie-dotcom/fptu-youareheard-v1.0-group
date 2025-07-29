@@ -1,0 +1,188 @@
+﻿<UserControl x:Class="YouAreHeard.UserControls.AdminProfileControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:YouAreHeard.UserControls"
+             xmlns:genderEnum="clr-namespace:YouAreHeard.Enums" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" Height="Auto" Width="Auto">
+
+    <ScrollViewer>
+        <StackPanel Margin="20" VerticalAlignment="Top">
+            <TextBlock Text="Tạo hồ sơ bác sĩ" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <!-- Tài khoản -->
+            <GroupBox Header="Thông tin tài khoản" Margin="0,10,0,10">
+                <StackPanel Margin="10">
+
+                    <!-- Email -->
+                    <Grid Margin="0,5">
+                        <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Email: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                            <TextBox Width="200" FontSize="15" FontWeight="Bold" Text="{Binding FormData.Email, Mode=TwoWay}" BorderThickness="0" Background="Transparent"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Password -->
+                    <Grid Margin="0,5">
+                        <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Mật khẩu: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                            <PasswordBox 
+                                x:Name="PasswordBox"
+                                Width="200"
+                                Background="Transparent"
+                                BorderBrush="Transparent"
+                                PasswordChanged="PasswordBox_PasswordChanged" />
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Name -->
+                    <Grid Margin="0,5">
+                        <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Họ và tên: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                            <TextBox Width="200" FontSize="15" FontWeight="Bold" Text="{Binding FormData.Name, Mode=TwoWay}" BorderThickness="0" Background="Transparent"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Date of birth -->
+                    <Grid Margin="0,5">
+                        <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Ngày sinh: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                            <DatePicker SelectedDate="{Binding FormData.Dob, Mode=TwoWay}" Width="200"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Phone -->
+                    <Grid Margin="0,5">
+                        <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Số điện thoại: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                            <TextBox Width="200" FontSize="15" FontWeight="Bold" Text="{Binding FormData.Phone, Mode=TwoWay}" BorderThickness="0" Background="Transparent"/>
+                        </StackPanel>
+                    </Grid>
+
+                </StackPanel>
+            </GroupBox>
+
+            <!-- Hồ sơ bác sĩ -->
+            <GroupBox Header="Hồ sơ bác sĩ">
+                <StackPanel Margin="10">
+
+                    <!-- Vai trò -->
+                    <Grid Margin="0,5">
+                        <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Vai trò: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                            <ComboBox Width="200"
+                                  SelectedValue="{Binding FormData.RoleId, Mode=TwoWay}"
+                                  SelectedValuePath="Tag">
+                                <ComboBoxItem Content="Bác sĩ" Tag="1"/>
+                                <ComboBoxItem Content="Nhân viên tư vấn" Tag="2"/>
+                            </ComboBox>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Chuyên ngành -->
+                    <Grid Margin="0,5">
+                        <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Chuyên ngành: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                            <TextBox Width="200" FontSize="15" FontWeight="Bold" Text="{Binding FormData.Specialties, Mode=TwoWay}" BorderThickness="0" Background="Transparent"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Kinh nghiệm -->
+                    <Grid Margin="0,5">
+                        <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Số năm kinh nghiệm: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                            <TextBox Width="60" FontSize="15" FontWeight="Bold" Text="{Binding FormData.YearsOfExperience, Mode=TwoWay}" BorderThickness="0" Background="Transparent"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Giới tính -->
+                    <Grid Margin="0,5">
+                        <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Giới tính: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                            <ComboBox Width="120"
+                                  SelectedValue="{Binding FormData.Gender, Mode=TwoWay}"
+                                  SelectedValuePath="Content">
+                                <ComboBoxItem Content="{x:Static genderEnum:GenderEnum.Female}" />
+                                <ComboBoxItem Content="{x:Static genderEnum:GenderEnum.Male}" />
+                                <ComboBoxItem Content="{x:Static genderEnum:GenderEnum.Other}" />
+                            </ComboBox>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Ngôn ngữ -->
+                    <Grid Margin="0,5">
+                        <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Ngôn ngữ: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                            <TextBox Width="200" FontSize="15" FontWeight="Bold" Text="{Binding FormData.LanguagesSpoken, Mode=TwoWay}" BorderThickness="0" Background="Transparent"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Mô tả -->
+                    <Grid Margin="0,5">
+                        <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                                   StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                        <StackPanel Margin="10">
+                            <TextBlock Text="Mô tả:" FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                            <TextBox FontSize="15" FontWeight="Bold" Text="{Binding FormData.Description, Mode=TwoWay}" Height="100" TextWrapping="Wrap" AcceptsReturn="True" BorderThickness="0" Background="Transparent"/>
+                        </StackPanel>
+                    </Grid>
+
+                </StackPanel>
+            </GroupBox>
+            <Border
+            CornerRadius="20"
+            Height="40"
+            Background="#415AFA"
+            Margin="4,4,4,4"
+            BorderThickness="0">
+                <Button Content="Khởi tạo hồ sơ"
+                Width="150" Height="40" Margin="0,0,0,0"
+                        Background="Transparent"
+                        BorderBrush="Transparent"
+                        Foreground="White"
+                        FontWeight="Bold"
+                        FontSize="15"
+                HorizontalAlignment="Center"
+                Command="{Binding SubmitCommand}" />
+            </Border>
+
+            <Border
+            CornerRadius="20"
+            Height="40"
+            Background="#415AFA"
+            Margin="4,4,4,4"
+            BorderThickness="0">
+                <Button Content="Tải file Excel"
+                Width="150" Height="40" Margin="0,0,0,0"
+                        Background="Transparent"
+                        BorderBrush="Transparent"
+                        Foreground="White"
+                        FontWeight="Bold"
+                        FontSize="15"
+                HorizontalAlignment="Center"
+                Command="{Binding LoadExcel}" />
+            </Border>
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

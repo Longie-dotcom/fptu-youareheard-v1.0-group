@@ -1,0 +1,146 @@
+﻿<UserControl x:Class="YouAreHeard.UserControls.AdminStatisticControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             xmlns:local="clr-namespace:YouAreHeard.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="20">
+            <!-- Grid of Totals -->
+            <!-- Statistic Cards -->
+            <UniformGrid Columns="4" Rows="2" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="0 0 0 20">
+                <!-- Total Users -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Tổng người dùng" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding TotalUsers}" FontSize="28" FontWeight="Bold" Foreground="#2C7BE5" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Total Doctors -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Bác sĩ" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding TotalDoctors}" FontSize="28" FontWeight="Bold" Foreground="#00B894" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Total Patients -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Bệnh nhân" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding TotalPatients}" FontSize="28" FontWeight="Bold" Foreground="#E17055" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Total Appointments -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Lịch hẹn" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding TotalAppointments}" FontSize="28" FontWeight="Bold" Foreground="#6C5CE7" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Active Treatment Plans -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Kế hoạch điều trị" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding ActiveTreatmentPlans}" FontSize="28" FontWeight="Bold" Foreground="#0984E3" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Lab Results -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Kết quả xét nghiệm" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding TotalLabResults}" FontSize="28" FontWeight="Bold" Foreground="#FF7675" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Verified OTP -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Tài khoản xác minh" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding VerifiedOtpCount}" FontSize="28" FontWeight="Bold" Foreground="#00CEC9" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Unverified OTP -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Tài khoản chưa xác minh" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding UnverifiedOtpCount}" FontSize="28" FontWeight="Bold" Foreground="#FD79A8" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Pending appointment -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Tổng lịch đang hẹn chờ" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding PendingAppointments}" FontSize="28" FontWeight="Bold" Foreground="#FD79A8" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Completed appointment -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Tổng lịch hẹn đã hoàn thành" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding CompletedAppointments}" FontSize="28" FontWeight="Bold" Foreground="#FD79A8" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Cancelled appointment -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Tổng lịch đã hẹn hủy" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding CancelledAppointments}" FontSize="28" FontWeight="Bold" Foreground="#FD79A8" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Confirmed appointment -->
+                <Border CornerRadius="12" Background="White" Margin="10" Padding="20" BorderBrush="#DDD" BorderThickness="1">
+                    <StackPanel>
+                        <TextBlock Text="Tổng lịch hẹn đã xác nhận" FontSize="16" FontWeight="SemiBold" Foreground="#444"/>
+                        <TextBlock Text="{Binding ConfirmedAppointments}" FontSize="28" FontWeight="Bold" Foreground="#FD79A8" Margin="0 10 0 0"/>
+                    </StackPanel>
+                </Border>
+            </UniformGrid>
+
+            <lvc:CartesianChart Margin="0,150,0,0" Height="300">
+                <lvc:CartesianChart.Series>
+                    <lvc:RowSeries Title="Total"
+                       Values="{Binding Totals}" />
+                </lvc:CartesianChart.Series>
+
+                <lvc:CartesianChart.AxisY>
+                    <lvc:Axis Labels="{Binding Labels}" Title="Category"/>
+                </lvc:CartesianChart.AxisY>
+
+                <lvc:CartesianChart.AxisX>
+                    <lvc:Axis Title="Count"/>
+                </lvc:CartesianChart.AxisX>
+            </lvc:CartesianChart>
+
+            <Border
+                CornerRadius="17.5"
+                Background="#415AFA"
+                Height="35"
+                VerticalAlignment="Center"
+                MinWidth="90"
+                Margin="10,0,0,0">
+                <Button Content="Xuất Excel" 
+                        Command="{Binding ExportCommand}" 
+                        Width="120" 
+                        Background="Transparent"
+                        BorderThickness="0"
+                        FontSize="14"
+                        FontWeight="Bold"
+                        Foreground="White"
+                        Margin="0,0,0,0"/>
+            </Border>
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

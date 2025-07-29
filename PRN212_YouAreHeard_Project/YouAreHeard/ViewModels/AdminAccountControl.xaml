@@ -1,0 +1,107 @@
+﻿<UserControl x:Class="YouAreHeard.UserControls.AdminAccountControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Margin="20, 0, 20, 20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="500" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <ListView Grid.Row="0" ItemsSource="{Binding Doctors}"
+                  Background="Transparent"
+                  BorderThickness="0">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="Padding" Value="0"/>
+                    <Setter Property="Margin" Value="0,5"/>
+                    <Setter Property="BorderThickness" Value="0"/>
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border CornerRadius="25" 
+                            Background="White" 
+                            Margin="5" 
+                            Padding="10" 
+                            BorderBrush="#DDD" 
+                            BorderThickness="1" 
+                            SnapsToDevicePixels="True">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="3*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+
+                            <!-- Display Name, DOB, Gender, Role -->
+                            <TextBlock Text="{Binding UserId}" Grid.Column="0" VerticalAlignment="Center"/>
+                            <TextBlock Text="{Binding Name}" Grid.Column="1" VerticalAlignment="Center"/>
+                            <TextBlock Text="{Binding Gender}" Grid.Column="2" VerticalAlignment="Center"/>
+                            <TextBlock Text="{Binding RoleName}" Grid.Column="3" VerticalAlignment="Center"/>
+
+                            <!-- Enable/Disable Button -->
+                            <CheckBox Grid.Column="4" Content="Active"
+                                      IsChecked="{Binding IsActive, Mode=TwoWay}"
+                                      Command="{Binding DataContext.ToggleAccountStatusCommand, RelativeSource={RelativeSource AncestorType=UserControl}}"
+                                      CommandParameter="{Binding UserId}"
+                                      Foreground="Black"
+                                      FontWeight="Bold"
+                                      FontSize="14"
+                                      Padding="10,5"
+                                      VerticalAlignment="Center"
+                                      Cursor="Hand"/>
+                            <Border Grid.Column="5"
+                                CornerRadius="17.5"
+                                Background="#28A745"
+                                Height="35"
+                                VerticalAlignment="Center"
+                                MinWidth="120"
+                                Margin="10,0,0,0">
+                                <Button Content="Xem lịch"
+                                 Command="{Binding DataContext.ViewScheduleCommand, 
+                                RelativeSource={RelativeSource AncestorType=UserControl}}"
+                                 CommandParameter="{Binding UserId}"
+                                 Background="Transparent"
+                                 BorderThickness="0"
+                                 Foreground="White"
+                                 FontWeight="Bold"
+                                 FontSize="14"
+                                 Padding="10,5"
+                                 Cursor="Hand"/>
+                            </Border>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- Upload Schedule Button -->
+        <Border Grid.Row="1"
+            CornerRadius="17.5"
+            Background="#28A745"
+            Height="35"
+            VerticalAlignment="Center"
+            MinWidth="120"
+            Margin="10,0,0,0">
+            <Button Content="Tải lịch làm việc"
+                 Command="{Binding DataContext.UploadScheduleCommand, RelativeSource={RelativeSource AncestorType=UserControl}}"
+                 Background="Transparent"
+                 BorderThickness="0"
+                 Foreground="White"
+                 FontWeight="Bold"
+                 FontSize="14"
+                 Padding="10,5"
+                 Cursor="Hand"/>
+        </Border>
+    </Grid>
+</UserControl>

@@ -1,0 +1,75 @@
+﻿<UserControl x:Class="YouAreHeard.UserControls.AdminSidebarControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:YouAreHeard.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <StackPanel Background="Transparent" VerticalAlignment="Stretch">
+        <Border
+            CornerRadius="20"
+            Height="auto"
+            Background="White"
+            Margin="4,4,4,4"
+            BorderThickness="0">
+            <Button 
+                Content="Bảng điều khiển của quản lý" 
+                Height="40"
+                BorderThickness="0"
+                Foreground="Black"
+                FontWeight="Bold"
+                Background="Transparent"/>
+        </Border>
+        <Border
+            CornerRadius="20"
+            Height="auto"
+            Background="#415AFA"
+            Margin="4,4,4,4"
+            BorderThickness="0">
+            <Button 
+                Content="Thông số chung" 
+                Height="40"
+                BorderThickness="0"
+                Foreground="White"
+                FontWeight="Bold"
+                Cursor="Hand"
+                Background="Transparent"
+                Click="StatisticClick"/>
+        </Border>
+
+        <Border
+            CornerRadius="20"
+            Height="auto"
+            Background="#415AFA"
+            Margin="4,4,4,4"
+            BorderThickness="0">
+            <Button 
+                Content="Thêm hồ sơ nhân viên và bác sĩ" 
+                Height="40"
+                BorderThickness="0"
+                Foreground="White"
+                FontWeight="Bold"
+                Cursor="Hand"
+                Background="Transparent"
+                Click="ProfileClick"/>
+        </Border>
+
+        <Border
+            CornerRadius="20"
+            Height="auto"
+            Background="#415AFA"
+            Margin="4,4,4,4"
+            BorderThickness="0">
+            <Button 
+                Content="Quản lý tài khoản" 
+                Height="40"
+                BorderThickness="0"
+                Foreground="White"
+                FontWeight="Bold"
+                Cursor="Hand"
+                Background="Transparent"
+                Click="AccountClick"/>
+        </Border>
+    </StackPanel>
+</UserControl>
