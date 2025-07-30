@@ -1,0 +1,70 @@
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Services.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\BussinessObjects.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\DataAccessLayer.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Repositories.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\BussinessObjects.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Repositories.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\DataAccessLayer.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\ref\Services.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Enums.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Enums.pdb
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Helper.dll
+C:\Users\PC\Documents\Visual Studio 2022\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Helper.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Services.deps.json
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Services.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Services.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\BussinessObjects.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\DataAccessLayer.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Enums.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Helper.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Repositories.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\BussinessObjects.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Enums.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Helper.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Repositories.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\GitHub\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\GitHub\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\GitHub\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\GitHub\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\GitHub\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\refint\Services.dll
+D:\GitHub\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.pdb
+D:\GitHub\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\ref\Services.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Services.deps.json
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Services.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Services.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\BussinessObjects.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\DataAccessLayer.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Enums.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Helper.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Repositories.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\BussinessObjects.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Enums.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Helper.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\Repositories.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\refint\Services.dll
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\Services.pdb
+D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\Services\obj\Debug\net9.0\ref\Services.dll
