@@ -1,0 +1,20 @@
+﻿<Window x:Class="YouAreHeard.Views.StaffDashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:YouAreHeard.Views"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Bảng điều khiển của nhân viên" Height="800" Width="1200">    
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                <GradientStop Color="#E3EBFA" Offset="0" />
+                <GradientStop Color="#E7EDF7" Offset="0.5" />
+                <GradientStop Color="#FFF7E8" Offset="1" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <ContentControl x:Name="StaffLayout"/>
+    </Grid>
+</Window>

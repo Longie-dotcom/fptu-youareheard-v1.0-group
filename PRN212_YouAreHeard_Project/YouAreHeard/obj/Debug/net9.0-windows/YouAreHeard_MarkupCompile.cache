@@ -1,20 +1,20 @@
 ﻿YouAreHeard
-
+1.0.0.0
 
 winexe
 C#
 .cs
-D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\
+e:\FPT\2025\Summer_2025\PRN212\fptu-youareheard-v1.0-group\PRN212_YouAreHeard_Project\YouAreHeard\obj\Debug\net9.0-windows\
 YouAreHeard
 none
 false
-TRACE;DEBUG;NET;NET9_0;NETCOREAPP
-D:\GitHub\fptu-youareheard-v1.0-desktop\PRN212_YouAreHeard_Project\YouAreHeard\App.xaml
-241229444036
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+e:\FPT\2025\Summer_2025\PRN212\fptu-youareheard-v1.0-group\PRN212_YouAreHeard_Project\YouAreHeard\App.xaml
+12242379576
 
-551537499550
-2491097246799
-Layouts\AdminLayout.xaml;Layouts\DoctorLayout.xaml;Layouts\StaffLayout.xaml;UserControls\AdminAccountControl.xaml;UserControls\AdminProfileControl.xaml;UserControls\AdminSidebarControl.xaml;UserControls\AdminStatisticControl.xaml;UserControls\DoctorAppointmentControl.xaml;UserControls\DoctorHeaderControl.xaml;UserControls\DoctorSidebarControl.xaml;UserControls\DoctorTestControl.xaml;UserControls\DoctorTreatmentControl.xaml;UserControls\StaffConsultantControl.xaml;UserControls\StaffPostControl.xaml;UserControls\StaffSidebarControl.xaml;UserControls\StaffVerifyControl.xaml;Views\AdminDashboard.xaml;Views\AdminDoctorScheduleDetail.xaml;Views\AppointmentDetail.xaml;Views\DoctorDashboard.xaml;Views\DoctorTest.xaml;Views\DoctorTreatment.xaml;Views\MainWindow.xaml;Views\StaffDashboard.xaml;
+27158759257
+2012000251880
+Layouts\DoctorLayout.xaml;UserControls\DoctorAppointmentControl.xaml;UserControls\DoctorHeaderControl.xaml;UserControls\DoctorSidebarControl.xaml;UserControls\DoctorTestControl.xaml;UserControls\DoctorTreatmentControl.xaml;Views\AppointmentDetail.xaml;Views\DoctorDashboard.xaml;Views\DoctorTest.xaml;Views\DoctorTreatment.xaml;Views\MainWindow.xaml;Views\StaffDashboard.xaml;
 
-False
+True
 

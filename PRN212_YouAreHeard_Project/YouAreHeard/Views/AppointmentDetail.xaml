@@ -1,0 +1,132 @@
+﻿<Window x:Class="YouAreHeard.Views.AppointmentDetail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chi tiết cuộc hẹn" Height="450" Width="600"
+        Background="White">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title -->
+        <TextBlock Text="Chi tiết cuộc hẹn" 
+                   FontSize="20" 
+                   FontWeight="Bold" 
+                   Margin="0,0,0,20"/>
+
+        <!-- Scrollable Content (scrollbar hidden) -->
+        <ScrollViewer Grid.Row="1"
+                      VerticalScrollBarVisibility="Hidden"
+                      HorizontalScrollBarVisibility="Disabled"
+                      CanContentScroll="True">
+            <StackPanel Orientation="Vertical">
+
+                <!-- Tên bệnh nhân -->
+                <Grid Margin="0,5">
+                    <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                               StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <TextBlock Text="Tên bệnh nhân: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                        <TextBlock Text="{Binding PatientProfile.Name}" FontSize="15" FontWeight="SemiBold"/>
+                    </StackPanel>
+                </Grid>
+
+                <!-- Giới tính -->
+                <Grid Margin="0,5">
+                    <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                               StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <TextBlock Text="Giới tính: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                        <TextBlock Text="{Binding PatientProfile.Gender}" FontSize="15" FontWeight="SemiBold"/>
+                    </StackPanel>
+                </Grid>
+
+                <!-- Tuổi -->
+                <Grid Margin="0,5">
+                    <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                               StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <TextBlock Text="Tuổi: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                        <TextBlock Text="{Binding PatientProfile.Age}" FontSize="15" FontWeight="SemiBold"/>
+                    </StackPanel>
+                </Grid>
+
+                <!-- Cân nặng -->
+                <Grid Margin="0,5">
+                    <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                               StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <TextBlock Text="Cân nặng: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                        <TextBlock Text="{Binding PatientProfile.Weight}" FontSize="15" FontWeight="SemiBold"/>
+                    </StackPanel>
+                </Grid>
+
+                <!-- Chiều cao -->
+                <Grid Margin="0,5">
+                    <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                               StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <TextBlock Text="Chiều cao: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                        <TextBlock Text="{Binding PatientProfile.Height}" FontSize="15" FontWeight="SemiBold"/>
+                    </StackPanel>
+                </Grid>
+
+                <!-- Thời gian hẹn -->
+                <Grid Margin="0,5">
+                    <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                               StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <TextBlock Text="Thời gian hẹn: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                        <TextBlock Text="{Binding Appointment.ScheduleDate}" FontSize="15" FontWeight="SemiBold"/>
+                        <TextBlock Text=" (" FontSize="15" FontWeight="Bold"/>
+                        <TextBlock Text="{Binding Appointment.ScheduleTime}" FontSize="15" FontWeight="Bold"/>
+                        <TextBlock Text=")" FontSize="15" FontWeight="Bold"/>
+                    </StackPanel>
+                </Grid>
+
+                <!-- Lý do khám -->
+                <Grid Margin="0,5">
+                    <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                               StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <TextBlock Text="Lý do khám: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                        <TextBlock Text="{Binding Appointment.Reason}" FontSize="15" FontWeight="SemiBold"/>
+                    </StackPanel>
+                </Grid>
+
+                <!-- Ghi chú -->
+                <Grid Margin="0,5">
+                    <Rectangle RadiusX="10" RadiusY="10" Stroke="Black" StrokeThickness="1.4"
+                               StrokeDashArray="4,2" Fill="#FFDFDFDF"/>
+                    <StackPanel Orientation="Horizontal" Margin="10">
+                        <TextBlock Text="Ghi chú: " FontWeight="Bold" FontSize="15" Foreground="#FF757575"/>
+                        <TextBlock Text="{Binding Appointment.Notes}" FontSize="15" FontWeight="SemiBold"/>
+                    </StackPanel>
+                </Grid>
+
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- Close Button -->
+        <Border Grid.Row="2"
+                CornerRadius="17.5"
+                Background="#415AFA"
+                Width="90"
+                Height="35"
+                HorizontalAlignment="Right"
+                Margin="0,20,0,0">
+            <Button 
+                Content="Đóng"
+                Background="Transparent"
+                BorderThickness="0"
+                Foreground="White"
+                Click="CloseClick"
+                FontWeight="Bold"
+                FontSize="15"
+                Padding="10,5"/>
+        </Border>
+    </Grid>
+</Window>
